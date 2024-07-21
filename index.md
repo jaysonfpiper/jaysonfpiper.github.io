@@ -5,7 +5,7 @@
 ### PowerBI Projects
 
 [Pizzeria Project]
-<img src="Screenshot 2024-07-21 165544.png"/>
+<img src="Screenshot 2024-07-21 174841.png"/>
 
 ---
 [Financial Project]
