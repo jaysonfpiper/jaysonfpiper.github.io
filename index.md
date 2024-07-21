@@ -4,17 +4,17 @@
 
 ### PowerBI Projects
 
-[Pizzeria Project](/sample_page)
+[Pizzeria Project]
 <img src="Screenshot 2024-07-21 165544.png"/>
 
 ---
-[Financial Project](/pdf/sample_presentation.pdf)
+[Financial Project]
 <img src="Screenshot 2024-07-21 170214.png"/>
 
 ---
 ### Excel Project
 
-[Coffee Shop Project](http://example.com/)
+[Coffee Shop Project]
 <img src="Screenshot 2024-07-21 171117.png"/>
 
 ---
