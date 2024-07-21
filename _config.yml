@@ -1,9 +1,11 @@
 title: Jayson Piper # your name (or website title) here
 logo: "/thumbnail_IMG_0653.jpg" # your photo (or logo) heredescription: > # your text below (remove <br> elements if you don't need line breaks)
-description: >  
-  Seeking a data analyst post or similar position.
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
   <br><br>
-  www.linkedin.com/in/jayson-piper-465436244
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
