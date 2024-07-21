@@ -2,14 +2,14 @@
 
 ---
 
-### PowerBI Project 1 
+### PowerBI Projects
 
 [Pizzeria Project](/sample_page)
 <img src="Screenshot 2024-07-21 165544.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Financail Project](/pdf/sample_presentation.pdf)
+<img src="Screenshot 2024-07-21 170214.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
