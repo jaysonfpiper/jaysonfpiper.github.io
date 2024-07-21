@@ -8,12 +8,14 @@
 <img src="Screenshot 2024-07-21 165544.png"/>
 
 ---
-[Financail Project](/pdf/sample_presentation.pdf)
+[Financial Project](/pdf/sample_presentation.pdf)
 <img src="Screenshot 2024-07-21 170214.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Excel Project
+
+[Coffee Shop Project](http://example.com/)
+<img src="Screenshot 2024-07-21 171117.png"/>
 
 ---
 
