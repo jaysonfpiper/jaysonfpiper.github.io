@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am currently attending a twelve-week data boot camp. This is teaching me all aspects of working with data. From uploading it onto various platforms, like Excel, SQL, Python, R and Tableau, cleaning that data, looking for relevant points in that data, converting it into pleasing visualisations and displaying them in easily understood dashboards. It is also teaching me how to do all this using cloud computing using software such as Azure.
   In the near future I would like to secure either a data apprenticeship or an entry level data role. Be that in analytics or another discipline.
   <br><br>
-  <a href="www.linkedin.com/in/jayson-piper-465436244">View My LinkedIn Profile</a> 
+  <a href="http://linkedin.com/in/jayson-piper-465436244">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
