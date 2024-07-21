@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### PowerBI Project 1 
 
 [Pizzeria Project](/sample_page)
 <img src="Screenshot 2024-07-21 165544.png"/>
