@@ -22,7 +22,7 @@
 ### Tableau Projects
 
 - [Bike shop](https://public.tableau.com/app/profile/jayson.piper6574/viz/Bikeshop_17198696333160/BikeShopSalesBreakdown)
-- [Project 2 Title](http://example.com/)
+- [Amazon Deliveries](https://public.tableau.com/app/profile/jayson.piper6574/viz/AmazonDeliveries/Dashboard1)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
