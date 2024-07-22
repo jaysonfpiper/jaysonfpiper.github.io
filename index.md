@@ -14,7 +14,7 @@
 ---
 ### Excel Project
 
-[Coffee Shop Project](finacial project.pbix)
+[Coffee Shop Project](coffee project.xlsx)
 <img src="Screenshot 2024-07-21 171117.png"/>
 
 ---
