@@ -4,7 +4,7 @@
 
 ### PowerBI Projects
 
-[Pizzeria Project]
+[Pizzeria Project](pizzeria.pbix)
 <img src="Screenshot 2024-07-21 174841.png"/>
 
 ---
