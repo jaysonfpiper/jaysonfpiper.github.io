@@ -18,7 +18,11 @@
 <img src="Screenshot 2024-07-21 171117.png"/>
 
 ---
+###MYSQL Project
+[Data Cleaning in SQL](mysql project data cleaning.sql)
+<img src="Screenshot 2024-07-22 161259.png"/>
 
+---
 ### Tableau Projects
 
 - [Bike shop](https://public.tableau.com/app/profile/jayson.piper6574/viz/Bikeshop_17198696333160/BikeShopSalesBreakdown)
