@@ -18,7 +18,7 @@
 <img src="Screenshot 2024-07-21 171117.png"/>
 
 ---
-###MYSQL Project
+### MYSQL Project
 [Data Cleaning in SQL](mysql project data cleaning.sql)
 <img src="Screenshot 2024-07-22 161259.png"/>
 
