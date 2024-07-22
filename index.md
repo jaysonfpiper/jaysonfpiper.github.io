@@ -8,13 +8,13 @@
 <img src="Screenshot 2024-07-21 174841.png"/>
 
 ---
-[Financial Project]
+[Financial Project](finacial project.pbix)
 <img src="Screenshot 2024-07-21 170214.png"/>
 
 ---
 ### Excel Project
 
-[Coffee Shop Project]
+[Coffee Shop Project](finacial project.pbix)
 <img src="Screenshot 2024-07-21 171117.png"/>
 
 ---
