@@ -33,7 +33,7 @@
 - [British Airways Reviews](https://public.tableau.com/app/profile/jayson.piper6574/viz/BritishAirwaysReview_17190600113250/Dashboard1)
 - [notes on British Airways Dashboard](Creating British Airways Review Tableau Visualisation.docx)
 - [Netflix Releases](https://public.tableau.com/app/profile/jayson.piper6574/viz/NetflixReleases_17190920823090/NetflixReleases)
-[notes on Netflix Releases](Creating Netflix Releases Tableau.docx)
+- [notes on Netflix Releases](Creating Netflix Releases Tableau.docx)
 ---
 
 
