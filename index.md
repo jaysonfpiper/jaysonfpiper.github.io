@@ -28,8 +28,9 @@
 ---
 ### Tableau Projects
 
-- [Bike shop](https://public.tableau.com/app/profile/jayson.piper6574/viz/Bikeshop_17198696333160/BikeShopSalesBreakdown)
 - [Amazon Deliveries](https://public.tableau.com/app/profile/jayson.piper6574/viz/AmazonDeliveries/Dashboard1)
+- <br>
+[notes on Amazon Deliveries Dashboard](Creating Amazon deliveries Tableau.docx)
 - [British Airways Reviews](https://public.tableau.com/app/profile/jayson.piper6574/viz/BritishAirwaysReview_17190600113250/Dashboard1)
 - [Netflix Releases](https://public.tableau.com/app/profile/jayson.piper6574/viz/NetflixReleases_17190920823090/NetflixReleases)
 
