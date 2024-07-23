@@ -21,6 +21,7 @@
 
 ---
 ### MYSQL Project
+<br>
 [Data Cleaning in SQL](mysql project data cleaning.sql)
 <img src="Screenshot 2024-07-22 161259.png"/>
 
