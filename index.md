@@ -4,7 +4,8 @@
 
 ### PowerBI Projects
 
-[Pizzeria Project](pizzeria.pbix)
+[Pizzeria Project PowerBI](pizzeria.pbix)
+[Pizzeria Project MYSQL](pizzeria project.sql)
 <img src="Screenshot 2024-07-21 174841.png"/>
 
 ---
