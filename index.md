@@ -29,13 +29,11 @@
 ### Tableau Projects
 
 - [Amazon Deliveries](https://public.tableau.com/app/profile/jayson.piper6574/viz/AmazonDeliveries/Dashboard1)
-- <br>
-[notes on Amazon Deliveries Dashboard](Creating Amazon deliveries Tableau.docx)
+- [notes on Amazon Deliveries Dashboard](Creating Amazon deliveries Tableau.docx)
 - [British Airways Reviews](https://public.tableau.com/app/profile/jayson.piper6574/viz/BritishAirwaysReview_17190600113250/Dashboard1)
-- <br>
-[notes on British Airways Dashboard](Creating British Airways Review Tableau Visualisation.docx)
+- [notes on British Airways Dashboard](Creating British Airways Review Tableau Visualisation.docx)
 - [Netflix Releases](https://public.tableau.com/app/profile/jayson.piper6574/viz/NetflixReleases_17190920823090/NetflixReleases)
-
+[notes on Netflix Releases](Creating Netflix Releases Tableau.docx)
 ---
 
 
