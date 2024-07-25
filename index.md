@@ -26,6 +26,12 @@
 <img src="Screenshot 2024-07-22 161259.png"/>
 
 ---
+### Python Data Project
+[complete Python Project](Python_amazon_data_analysis.ipynb)
+<br><br>
+<img src="Screenshot 2024-07-25 120956.png"/>
+
+---
 ### Tableau Projects
 
 - [Amazon Deliveries](https://public.tableau.com/app/profile/jayson.piper6574/viz/AmazonDeliveries/Dashboard1)
