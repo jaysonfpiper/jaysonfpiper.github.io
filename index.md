@@ -42,10 +42,10 @@
 
 - [Amazon Deliveries](https://public.tableau.com/app/profile/jayson.piper6574/viz/AmazonDeliveries/Dashboard1)
 - [notes on Amazon Deliveries Dashboard](Creating Amazon deliveries Tableau.docx)
-<br>
+
 - [British Airways Reviews](https://public.tableau.com/app/profile/jayson.piper6574/viz/BritishAirwaysReview_17190600113250/Dashboard1)
 - [notes on British Airways Dashboard](Creating British Airways Review Tableau Visualisation.docx)
-<br>
+
 - [Netflix Releases](https://public.tableau.com/app/profile/jayson.piper6574/viz/NetflixReleases_17190920823090/NetflixReleases)
 - [notes on Netflix Releases Dashboard](Creating Netflix Releases Tableau.docx)
 
