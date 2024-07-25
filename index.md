@@ -30,7 +30,7 @@
 [complete Python Project](Python_amazon_data_analysis.ipynb)
 <br><br>
 <img src="Screenshot 2024-07-25 120956.png"/>
-
+[test](https://nb.anaconda.cloud/jupyterhub/user/41f65f73-58f3-4621-9d27-f1fd7e6ee653/lab/tree/Python_amazon_data_analysis.ipynb?)
 ---
 ### Tableau Projects
 
