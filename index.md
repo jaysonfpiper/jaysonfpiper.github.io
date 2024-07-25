@@ -29,7 +29,7 @@
 ### Python Data Project
 [complete Python Project](Python_amazon_data_analysis.ipynb)
 <br>
-[data set used](
+[data set used](amazon_delivery.csv)
 <br><br>
 <img src="Screenshot 2024-07-25 120956.png"/>
 
