@@ -4,7 +4,9 @@
 
 ### PowerBI Projects
 
-[Pizzeria Project PowerBI](pizzeria project.pbix)
+[Pizzeria Project PowerBI Download](pizzeria project.pbix)
+<br>
+[pizzeria Project Link](https://app.powerbi.com/groups/me/reports/87f7ba59-cc39-4990-8c00-eca8061c112b/595a53e08a3a9e718177?experience=power-bi)
 <br>
 [Pizzeria Project MYSQL](pizzeria project.sql)
 <img src="Screenshot 2024-07-21 174841.png"/>
