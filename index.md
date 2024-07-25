@@ -12,7 +12,7 @@
 ---
 [Financial Project](finacial project.pbix)
 <img src="Screenshot 2024-07-21 170214.png"/>
-
+[test](https://app.powerbi.com/groups/me/reports/569a06d0-b962-4c48-9c1f-4f114f149d19/c374d50cdb58a230506b?experience=power-bi)
 ---
 ### Excel Project
 
