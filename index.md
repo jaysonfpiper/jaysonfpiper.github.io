@@ -12,9 +12,9 @@
 <img src="Screenshot 2024-07-21 174841.png"/>
 
 ---
-[Financial Project download](finacial project.pbix)
+[Financial Project PowerBI Download](finacial project.pbix)
 <br>
-[financial project link](https://app.powerbi.com/groups/me/reports/569a06d0-b962-4c48-9c1f-4f114f149d19/c374d50cdb58a230506b?experience=power-bi)
+[Financial Project Link](https://app.powerbi.com/groups/me/reports/569a06d0-b962-4c48-9c1f-4f114f149d19/c374d50cdb58a230506b?experience=power-bi)
 <img src="Screenshot 2024-07-21 170214.png"/>
 
 ---
@@ -31,9 +31,9 @@
 
 ---
 ### Python Data Project
-[complete Python Project](Python_amazon_data_analysis.ipynb)
+[Complete Python Project](Python_amazon_data_analysis.ipynb)
 <br>
-[data set used](amazon_delivery.csv)
+[Data Set Used](amazon_delivery.csv)
 <br><br>
 <img src="Screenshot 2024-07-25 120956.png"/>
 
