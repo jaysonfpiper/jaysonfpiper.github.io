@@ -52,7 +52,7 @@
   
 ---
 ### Please contact me with any questions.
-jaysonfpiper@hotmail.com
+[email me](jaysonfpiper@hotmail.com)
 
 
 
